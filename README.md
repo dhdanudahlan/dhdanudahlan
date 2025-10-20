@@ -1,12 +1,10 @@
-## Hi there 👋
+## Hello World! I'm Dimas Humayun Danu D. :ant:
 
-<!--
-**dhdanudahlan/dhdanudahlan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Dimas Humayun Danu Dahlan](assets/img/github-header-banner.png)
+- :unlock: I’m currently learning [**Flutter**](https://flutter.dev/) for Cross-Platform App Development
 
-Here are some ideas to get you started:
-
+<!--q
 - 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
