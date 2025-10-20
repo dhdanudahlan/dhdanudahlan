@@ -22,9 +22,8 @@
 ![image]() -->
 
 #### My Stats
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dhdanudahlan&show_icons=true&locale=en&layout=compact" alt="dhdanudahlan" />
-<br>
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=dhdanudahlan&show_icons=true&locale=en" alt="dhdanudahlan" />
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=dhdanudahlan&show_icons=true&locale=en" alt="dhdanudahlan" /></p>
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dhdanudahlan&show_icons=true&locale=en&layout=compact" alt="dhdanudahlan" /></p>
 <!--q
 - 🔭 I’m currently working on ...
 - 👯 I’m looking to collaborate on ...
